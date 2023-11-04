@@ -34,3 +34,9 @@ Ejercicio donde se muestra como realizar el merge de las ramas.
  26. Fork & Pull Request [02:42:37](https://www.youtube.com/watch?v=7ylE8cm3mb0&t=9757s) 
  27. Markdown & README.md [02:50:49](https://www.youtube.com/watch?v=7ylE8cm3mb0&t=10249s) 
  28. Despedida
+
+### Configuración inicial
+1. git config --global user.name "Mauricio"
+2. git config --global user.email "mjcarou@hotmail.com"
+3. git config --global core.editor "code --wait"
+4. git config --global -e

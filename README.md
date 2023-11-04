@@ -38,7 +38,7 @@ Ejercicio donde se muestra como realizar el merge de las ramas.
 ### Configuración inicial
 1. git config --global user.name "Mauricio"
 2. git config --global user.email "mjcarou@hotmail.com"
-3. git config --global core.editor "code --wait" >**//** Indico que visual studio Code es el editor por default.
-4. git config --global -e >**//** Verifico la configuración.
-5. git config --global core.autocrlf true >**//** Configuro el salto de linea para windows.
+3. git config --global core.editor "code --wait" **//** Indico que visual studio Code es el editor por default.
+4. git config --global -e **//** Verifico la configuración.
+5. git config --global core.autocrlf true **//** Configuro el salto de linea para windows.
 
